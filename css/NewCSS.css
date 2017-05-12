@@ -20,13 +20,6 @@ html, body {
                 padding: 0;
             }
 
-
-div {
-  padding: 50px 30px 50px 80px;
-
-
-
-}
 hr {
 
 
@@ -50,13 +43,14 @@ h2 {
 }
 p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 25px;
-    text-align: center;
-    padding-left: 400px;
-    padding-right: 400px
 
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 25px;
+    padding-left: 380px;
+    padding-right: 380px;
+    padding-top: 12px;
+    padding-bottom:12px;
 }
 #foo {
     background-color: yellow;
