@@ -18,6 +18,8 @@ html, body {
             h1 {
                 margin: 0;
                 padding: 0;
+                padding-left: 380px;
+                padding-right: 380px;
             }
 
 hr {
@@ -32,6 +34,8 @@ h1 {
     font-size: 20px;
     font-weight: 500;
     line-height: 26.4px;
+    padding-left: 380px;
+    padding-right: 380px;
     color: #343434
 }
 h2 {
@@ -39,6 +43,8 @@ h2 {
     font-size: 14px;
     font-weight: 500;
     line-height: 15.4px;
+    padding-left: 380px;
+    padding-right: 380px;
     text-align: justify;
 }
 p {
@@ -54,4 +60,10 @@ p {
 }
 #foo {
     top: 3px;
+}
+
+.study {
+
+  padding-left: 380px;
+  padding-right: 380px;
 }
